@@ -58,7 +58,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
   <img width="12" />
-  <img src="https://img.icons8.com/?size=80&id=muqMY2QA2VIG&format=png" height="30" alt="linux logo"  />
+  <img src="https://img.icons8.com/?size=80&id=muqMY2QA2VIG&format=png" height="35" alt="linux logo"  />
 </div>
 
 ###
